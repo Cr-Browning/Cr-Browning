@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Cr-Browning
+- 👋 Hi, I’m Cade Browning
 - 👀 I’m interested in Data Science, Front/Backend development, mathematics, and software engineering
-- 🌱 I’m currently learning Java and mastering python in school. Teaching myself how to better use packages in my personal projects
+- 🌱 I’m currently learning Python, Rust, Java, React, C, PostgreSQL, MySQL, and JavaScript.
 - 📫 How to reach me: crbrowning9@gmail.com
 
 <!---
