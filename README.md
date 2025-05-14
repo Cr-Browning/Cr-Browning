@@ -7,4 +7,4 @@
 - 🌱 Currently learning advanced Rust concurrency, Django REST APIs, and low-level C systems programming.
 - 🌍 I speak English fluently, intermediate German, and beginner Spanish.
 - 🧠 I’m interested in backend & full-stack development, cybersecurity engineering, data science, and applied math.
-- 📫 Let’s connect: [Email](crbrowning9@gmail.com) | [LinkedIn](https://www.linkedin.com/in/cade-browning/) | [GitHub](https://github.com/Cr-Browning)
+- 📫 Let’s connect: Email: crbrowning9@gmail.com | [LinkedIn](https://www.linkedin.com/in/cade-browning/) | [GitHub](https://github.com/Cr-Browning)
